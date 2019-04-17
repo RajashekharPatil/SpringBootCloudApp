@@ -11,9 +11,9 @@
 	</parent>
 
 	<groupId>com.example</groupId>
-	<artifactId>SpringCloudApplication</artifactId>
+	<artifactId>SpringBootCloudApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringCloudApplication</name>
+	<name>SpringBootCloudApp</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
